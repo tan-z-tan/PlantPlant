@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="PlantPlant" />
+  <Content type="html">
+    <![CDATA[
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://dl.dropbox.com/u/2354109/plantPlant/Gene.js"></script>
+    <script type="text/javascript" src="http://dl.dropbox.com/u/2354109/plantPlant/Plant.js"></script>
+    <script type="text/javascript" src="http://dl.dropbox.com/u/2354109/plantPlant/PlantPlant.js"></script>
+        
+    <body>
+      <canvas id="canvas" width="1000" height="500"></canvas>
+    </body>
+    ]]>
+  </Content> 
+</Module>
